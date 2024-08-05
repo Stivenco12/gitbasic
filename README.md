@@ -4,8 +4,8 @@ Este repositorio tiene archivos hechos en Python, contiene un código que imita 
 **INSTALACION:**
 para utilizar este programa se requiere de visual estudio y tener la extensión de Python para poder iniciar ya que carece de una interfaz grafica
 
-**ESTADO DE REPOSITORIO**
+**ESTADO DE REPOSITORIO:**
 en espera de mejoras
 
-**AUTOR**
+**AUTOR:**
 stevenco12
